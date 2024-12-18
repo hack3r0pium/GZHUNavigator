@@ -14,5 +14,3 @@
 ![finish.png](https://github.com/hack3r0pium/GZHUNavigator/blob/master/image/finish.png)
 # ̶T̶O̶ ̶D̶O̶ ̶L̶I̶S̶T̶
 在Releases下载exe文件，确保map.png和exe在同一目录
-# 如果本项目有幸对您有帮助，您可以考虑赞赏作者
-![thanks.jpg](https://github.com/hack3r0pium/GZHUNavigator/blob/master/image/thanks.jpg)
